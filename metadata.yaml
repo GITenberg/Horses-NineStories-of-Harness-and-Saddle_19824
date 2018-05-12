@@ -1,0 +1,34 @@
+_repo: Horses-NineStories-of-Harness-and-Saddle_19824
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ford, Sewell
+    birthdate: 1868
+    deathdate: 1946
+    gutenberg_agent_id: '7287'
+    url: http://www.gutenberg.org/2009/agents/7287
+description: ''
+gutenberg_issued: '2006-11-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19824'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Social life and customs -- 20th century -- Fiction'
+- !lcsh 'Horses -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Human-animal relationships -- Fiction'
+tableOfContents: Skipper, being the biography of a blue-ribboner -- Calico, who travelled
+  with a round top -- Old Silver, a story of the Gray Horse Truck -- Blue Blazes,
+  and the marring of him -- Chieftain, a story of the heavy draught service -- Barnacles,
+  who mutinied for good cause -- Black Eagle, who once ruled the ranges.
+title: 'Horses Nine
+
+  Stories of Harness and Saddle'
+url: http://www.gutenberg.org/ebooks/19824
